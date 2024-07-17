@@ -14,7 +14,7 @@ This contains SQL scripts and analysis for a comprehensive data analysis project
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/mirdanish6594/Data-analysis-in-a-model-car-database
 2. **Import SQL Script**:
 Use a MySQL client to execute the mintclassics.sql script against your database.
 3. **Run Queries**:
